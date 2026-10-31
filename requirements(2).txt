@@ -1,0 +1,17 @@
+OrderGuard AI - Backend dependencies
+
+API framework
+
+fastapi uvicorn[standard] pydantic
+
+Data processing and machine learning
+
+numpy pandas scikit-learn joblib
+
+Environment configuration
+
+python-dotenv
+
+Testing
+
+pytest httpx

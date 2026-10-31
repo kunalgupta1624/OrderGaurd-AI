@@ -1,0 +1,13 @@
+[
+    {
+        "order_id": "OG-TEST-001",
+        "customer_name": "Rahul Sharma",
+        "order_value": 649.0,
+        "rto_probability": 0.3903,
+        "recommended_action": "CONFIRM_ORDER",
+        "explanation": "Some delivery or RTO risk indicators require confirmation.",
+        "validation_status": "PASSED",
+        "prepaid_offer": null,
+        "evaluated_at": "2026-10-31T11:44:32.847646+00:00"
+    }
+]

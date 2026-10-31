@@ -1,0 +1,5 @@
+{
+    "confirm_threshold": 0.3,
+    "prepaid_threshold": 0.5,
+    "hold_threshold": 0.57
+}
